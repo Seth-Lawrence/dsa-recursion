@@ -2,6 +2,7 @@
  * return true if val is in array, false if not present). */
 
 function binarySearch(arr: number[], val: number, left = 0, right = arr.length): boolean {
+  debugger;
   return false;
 }
 
